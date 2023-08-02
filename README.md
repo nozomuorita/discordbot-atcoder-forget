@@ -1,5 +1,6 @@
 # Overview
 * This bot recommends questions that you should review.
+<img src='./screenshot.png' />
 
 
 # Reference
